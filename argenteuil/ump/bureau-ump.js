@@ -303,7 +303,7 @@ var bureau_ump = {"type":"FeatureCollection","features":[
 
 ]};
 
-var map2 = L.map('map-ump').setView([48.95024, 2.24447], 13);
+var map2 = L.map('map-ump').setView([48.95024, 2.24447], 14);
 
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
